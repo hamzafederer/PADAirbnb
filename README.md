@@ -25,16 +25,6 @@ Comprendre comment les prix et la disponibilité des annonces Airbnb varient sel
     └── analyse_airbnb_simple.ipynb
 ```
 
-## Résultats clés
-
-| Élément | Valeur |
-|---|---|
-| Annonces analysées | 48 895, dont 48 410 pour les prix (de 0 $ à 799 $ exclus : prix nuls et extrêmes) |
-| Q1 — segment le plus cher | Manhattan / logement entier : 190 $ la nuit (médiane) |
-| Q1 — segment le moins cher (au moins 100 annonces) | Brooklyn / chambre partagée : 36 $ |
-| Q2 — quartier n° 1 | Tribeca : 275,50 $ (156 annonces); les 10 premiers sont à Manhattan |
-
-
 ## Source des données
 
 *New York City Airbnb Open Data*, Kaggle, d'après Inside Airbnb.
