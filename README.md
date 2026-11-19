@@ -1,6 +1,6 @@
 # Analyse des annonces Airbnb — New York 2019
 
-Projet du cours *Projet Analyse de données* (La Cité collégiale)
+*Projet Analyse de données* (La Cité collégiale)
 
 ## Objectif
 
